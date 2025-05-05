@@ -1,0 +1,52 @@
+DOKUMEN INI DIAMBIL DARI WIKIPEDIA
+
+ISO 31000 adalah keluarga standar internasional pedoman penerapan manajemen risiko yang diterbitkan oleh International Organization for Standardization. Standar yang diterbitkan pada 13 November 2009 ini merupakan pengembangan standar AS/NZS 4360:2004 yang dikeluarkan oleh Standards Australia. ISO 31000 tidak dikembangkan untuk tujuan sertifikasi. ISO 31000 ini berisi panduan umum dan prinsip- prinsip yang digunakan untuk mengelola risiko yang mungkin berdampak buruk bagi organisasi karena dapat mempengaruhi reputasi organisasi dan kinerja ekonomi.
+
+
+ISO 31000 berupaya menyediakan paradigma yang diakui secara universal bagi para praktisi dan perusahaan yang menggunakan proses manajemen risiko untuk menggantikan berbagai standar, metodologi, dan paradigma yang ada, yang berbeda antara industri, subjek, dan wilayah. Untuk tujuan ini, rekomendasi yang diberikan dalam ISO 31000 dapat disesuaikan dengan organisasi dan konteksnya.
+
+Pada tahun 2020, ISO/TC 262, komite yang bertanggung jawab atas kelompok standar ini, telah menerbitkan lima standar, sementara empat standar tambahan sedang dalam tahap pengusulan/pengembangan.
+
+Published standards :
+
+    ISO 31000:2018 - Risk management - Guidelines
+    ISO/TR 31004:2013 - Risk management - Guidance for the implementation of ISO 31000
+    ISO/IEC 31010:2019 - Risk management - Risk assessment techniques
+    ISO 31022:2020 - Risk management - Guidelines for the management of legal risk
+    ISO 31030:2021 Travel risk management — Guidance for organizations
+    IWA 31:2020 - Risk management - Guidelines on using ISO 31000 in management systems
+
+Standards under development:
+
+    ISO/AWI 31073 - Risk management - Vocabulary
+    ISO/WD 31050 - Guidance for managing emerging risks to enhance resilience
+    ISO/CD 31070 - Risk management - Guidelines on core concepts
+
+ISO juga merancang standar ISO 21500 Guidance on Project Management untuk menyelaraskan dengan ISO 31000:2018.
+
+Komite Proyek ISO/PC 317 menerbitkan ISO 31700 Perlindungan Konsumen - privasi berdasarkan desain untuk barang dan jasa konsumen pada Januari 2023.
+Cakupan
+
+ISO 31000:2018 menyediakan seperangkat prinsip, pedoman untuk desain, implementasi kerangka kerja manajemen risiko dan rekomendasi untuk penerapan proses manajemen risiko. Proses manajemen risiko seperti yang dijelaskan dalam ISO 31000 dapat diterapkan pada aktivitas apa pun, termasuk pengambilan keputusan di semua tingkatan.
+
+Perbedaan antara istilah kerangka kerja manajemen risiko dan proses manajemen risiko dijelaskan oleh ISO sebagai berikut:
+
+Kerangka kerja manajemen risiko - seperangkat komponen yang memberikan dasar dan pengaturan organisasi untuk merancang, menerapkan, membimbing, meninjau, dan terus meningkatkan manajemen risiko di seluruh organisasi. Dengan bantuan siklus PDCA, sistem ini dapat ditingkatkan secara berkelanjutan
+
+Proses manajemen risiko - aplikasi sistematis dari kebijakan manajemen, prosedur dan praktik untuk kegiatan komunikasi, konsultasi, membangun konteks, dan mengidentifikasi, menganalisis, mengevaluasi, memperlakukan, memantau dan meninjau risiko. Dengan kata lain, apa yang dilakukan ISO 31000 adalah memformalkan praktik manajemen risiko, dan pendekatan ini dimaksudkan untuk memfasilitasi adopsi yang lebih luas oleh perusahaan yang membutuhkan standar manajemen risiko perusahaan yang mengakomodasi berbagai sistem manajemen 'silo-sentris'.
+
+Ruang lingkup pendekatan manajemen risiko ini adalah untuk memungkinkan semua tugas strategis, manajemen dan operasional organisasi di seluruh proyek, fungsi, dan proses untuk diselaraskan dengan seperangkat tujuan manajemen risiko yang sama.
+
+Oleh karena itu, ISO 31000 ditujukan untuk kelompok pemangku kepentingan yang luas, termasuk:
+
+    Pemangku kepentingan tingkat eksekutif
+
+    Pemegang jabatan dalam kelompok manajemen risiko perusahaan
+
+    Analis risiko dan pejabat manajemen
+
+    Manajer lini dan manajer proyek
+
+    Auditor kepatuhan dan internal
+
+    Praktisi independen.
